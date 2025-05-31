@@ -26,8 +26,8 @@ Face-Recognition-Attendance/
 ├── requirements.txt # Python dependencies
 └── YYYY-MM-DD.csv # Automatically generated attendance log file
 
-Install dependencies
-pip install -r requirements.txt
-
-Run the application
-python main.py
+-Install Requirments
+cmake
+numpy
+opencv-python
+face_recognition
